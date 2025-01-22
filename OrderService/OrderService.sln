@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderService\OrderService.csproj", "{158EDD30-62B5-46EA-B6DE-8972D0EB0CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderServiceTests", "OrderServiceTests\OrderServiceTests.csproj", "{75D57964-89E3-4D8A-A706-D1595A1F0743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158EDD30-62B5-46EA-B6DE-8972D0EB0CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158EDD30-62B5-46EA-B6DE-8972D0EB0CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158EDD30-62B5-46EA-B6DE-8972D0EB0CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158EDD30-62B5-46EA-B6DE-8972D0EB0CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D57964-89E3-4D8A-A706-D1595A1F0743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D57964-89E3-4D8A-A706-D1595A1F0743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D57964-89E3-4D8A-A706-D1595A1F0743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D57964-89E3-4D8A-A706-D1595A1F0743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
